@@ -1,0 +1,5 @@
+-Hi, I’m @BTreadwell
+-I’m interested in Networking, Cybersecurity, Cryptography, and Mathematics
+-I’m currently working towards a Bachelors of Science from The University of North Carolina at Wilmington with a major in computer science
+-I’m looking to collaborate on projects related to my interested that can help me reach future goals
+-How to reach me: brennont99@gmail.com
