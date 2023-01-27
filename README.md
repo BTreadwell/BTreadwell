@@ -1,6 +1,15 @@
-## Hi, I’m Brie Treadwell
-My interests include Networking, Cybersecurity, Cryptography, and Mathematics
+## Hey! I'm Brennon <3
 
-I’m currently working towards a Bachelors of Science from The University of North Carolina at Wilmington with a major in computer science and a minor in mathematics. I'm a student researcher with the Extended Reality Research Group at UNCW where I'm helping develop VR tools that will give elementary school students access to an immersive STEM education. I also work at the Technology Assistance Center at UNCW.
+My interests include Software Development, Cryptography, and Mathematics
+
+Here's some cool stuff I'm doing ->
+
+Working towards a Bachelors of Science from The University of North Carolina at Wilmington with a major in computer science and a minor in mathematics. 
+
+Building tools that help banks make smarter decisions more efficiently at nCino where I'm working as a software engineering intern. I develop on the Salesforce and AWS platform with experience coding in Apex and Typescript.
+
+Studying implicit bias with the Extended Reality Research Group at UNCW. I develop VR simulations for both Oculus and Vive devices using Unity.
+
+Implementing modern blockchain consensus algorithms as a research assistant at UNCW.
 
 How to reach me: brennont99@gmail.com
